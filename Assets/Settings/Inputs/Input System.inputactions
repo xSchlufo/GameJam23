@@ -7,9 +7,9 @@
             "actions": [
                 {
                     "name": "Move",
-                    "type": "Value",
+                    "type": "PassThrough",
                     "id": "7e805e34-4a9d-4175-a33a-e8dd35453cb6",
-                    "expectedControlType": "Axis",
+                    "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
@@ -25,17 +25,6 @@
                 }
             ],
             "bindings": [
-                {
-                    "name": "Keyboard Axis",
-                    "id": "6be1d1be-2623-46bd-a29d-b208c776d067",
-                    "path": "1DAxis",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Move",
-                    "isComposite": true,
-                    "isPartOfComposite": false
-                },
                 {
                     "name": "",
                     "id": "3ecd75b4-792a-4fbe-8ef7-80f53ac897c2",
@@ -55,6 +44,17 @@
                     "processors": "",
                     "groups": "Keyboard",
                     "action": "Pause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "48b4bd29-debc-43aa-a524-0768f45207da",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

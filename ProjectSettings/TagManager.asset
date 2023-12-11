@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - StartScreen
+  - MainMenu
+  - Boden
+  - Wand
+  - PlayerSpawn
   layers:
   - Default
   - TransparentFX

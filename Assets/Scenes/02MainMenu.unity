@@ -690,7 +690,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_UiScaleMode: 0
-  m_ReferencePixelsPerUnit: 100
+  m_ReferencePixelsPerUnit: 32
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
   m_ScreenMatchMode: 0
@@ -820,7 +820,8 @@ Transform:
   m_LocalPosition: {x: 872.47003, y: 566.5452, z: -2.0193472}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 2137310990}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2450,7 +2451,7 @@ GameObject:
   - component: {fileID: 2137310985}
   m_Layer: 5
   m_Name: MainCanvas
-  m_TagString: Untagged
+  m_TagString: MainMenu
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2502,6 +2503,7 @@ MonoBehaviour:
       UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"B_AudioBack","value":{"$content":15,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"FadeCanvas","value":{"$content":16,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"FadeImage","value":{"$content":17,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"MainCanvas","value":{"$content":18,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1217562202}
@@ -2522,6 +2524,7 @@ MonoBehaviour:
     - {fileID: 1882250611}
     - {fileID: 459663908}
     - {fileID: 1948012672}
+    - {fileID: 2137310984}
 --- !u!114 &2137310987
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2599,8 +2602,8 @@ RectTransform:
   - {fileID: 1217562203}
   - {fileID: 863030818}
   - {fileID: 459663909}
-  m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_Father: {fileID: 773782725}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}

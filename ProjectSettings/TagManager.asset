@@ -9,6 +9,12 @@ TagManager:
   - Boden
   - Wand
   - PlayerSpawn
+  - Collectable1
+  - Collectable2
+  - PauseCanvas
+  - Collectable
+  - Item
+  - ItemSlot
   layers:
   - Default
   - TransparentFX

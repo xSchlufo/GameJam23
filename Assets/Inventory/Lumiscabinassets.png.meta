@@ -1,0 +1,1355 @@
+fileFormatVersion: 2
+guid: 571a0564949d18341be76ad15df108b7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lumiscabinassets_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 335
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e274246cc00da429b19fd16794aa15
+      internalID: -1344598168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 335
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6048f8f0cef4b4a4db6f0f6676e8c696
+      internalID: -395385284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 335
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b90981202143a48a8fdffd6b353d46
+      internalID: -94895222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 330
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d9640d4bb44a54486849ab96029b8a
+      internalID: 1477463803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 330
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c289fee673de5e7489ed28e761c5f5e5
+      internalID: 218072637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 271
+        width: 40
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0ced45a156fad48a7358908c3e3c6b
+      internalID: -1724936177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 271
+        width: 40
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726b10684e4327b40a264eff8828fff6
+      internalID: -909310049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 271
+        width: 40
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8e362ff64f02147a3de9e2395d7a0d
+      internalID: -1409118870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_8
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 319
+        width: 23
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7623d3112dc6ed4b859782637950015
+      internalID: -2059758145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_9
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 334
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289b8eb540758774f8a26d57c043c60c
+      internalID: -748195719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 272
+        width: 40
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0808fbe8456584faacb9f9978e073f
+      internalID: 305980616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 272
+        width: 40
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58e5e7450655c743ad28486481ff74e
+      internalID: -2103960007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 273
+        width: 40
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b0e991fead2ff49bae5437e633c464
+      internalID: -1070117624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 319
+        width: 22
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add94d683915ac041a543cbea8de1936
+      internalID: 706555958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_14
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 303
+        width: 21
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c0c5f3e51b47a499d922c9db07109a
+      internalID: 1438923659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 234
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d46062ccd06a141bbab33dcb575918
+      internalID: 1132175166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 255
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20772f3e8c487841bb3a48437179e45
+      internalID: 1081441676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_17
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 175
+        width: 84
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af27efb932389d41b3fd3f996c3c6d9
+      internalID: -1730410916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 239
+        width: 29
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a715097420e6e144c9c09837736c891b
+      internalID: -1297342005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 223
+        width: 26
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b7e190bdcd26b4e8f16331ccc390bc
+      internalID: -936427919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_20
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 223
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a71c81c9f9f76141ba9fcdb2d03d379
+      internalID: -1110042100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 240
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeeea9d16de7ea4986ea0ffa5a702b3
+      internalID: 1142474102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 239
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895b78d68fd6580438cc3cfe463c47c6
+      internalID: -1226053373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_23
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 191
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e2c0fd87b9c4045b1e865299a3d7d6
+      internalID: 728189971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_24
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 191
+        width: 40
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fad9ee1ec5d9414a9e5da16087092e6
+      internalID: -367104161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 191
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d1eb35aaed05944abd9f4415507164
+      internalID: -309371304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 207
+        width: 26
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7409c909100362f419a46fd9edcfcb82
+      internalID: 816565945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 206
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8afb186e98e8b94491d29381bcfc4d5
+      internalID: -605401758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_28
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 191
+        width: 39
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecce9fdf9c922e34697e5ddbc3823646
+      internalID: 798087389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_29
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 207
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a50251936c80844853b4de449d617c
+      internalID: 1141618635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_30
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 207
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7efc4245e05534c9e1b2bcc98388cf
+      internalID: -993003659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_31
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 206
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070759efffe3e2d43ae0cd0a97ea0c74
+      internalID: 294050521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_32
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 176
+        width: 96
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f96bb5f3c879e14d9c119f6e9ca6b58
+      internalID: -1660852773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 199
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0a97f63e6f8804b8fed9d95d8b2442
+      internalID: 441055975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 152
+        width: 89
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f44525a069e76440ba958dcb78a1792
+      internalID: -1270477306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 166
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34cf0faac36f674c8a4c337db730cfc
+      internalID: 815644685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 159
+        width: 38
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991db557747871b45ab2b729fd08f64d
+      internalID: -1594162196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_37
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 75
+        width: 84
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78c64a1401b0da4c9273e9416816153
+      internalID: -2064586778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_38
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 127
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c914ffcfc36ea046b953b8d61d06817
+      internalID: -168722835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 127
+        width: 25
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00493de28ec27d46960d1eeb2d78de1
+      internalID: -1038016607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_40
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 127
+        width: 30
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e072c04dd7507f64e9dd133ecf53c3ad
+      internalID: 1822895713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 127
+        width: 30
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9613cf586349dda4684d684b5357e29d
+      internalID: -845303240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_42
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 127
+        width: 10
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896568da032d30349b4697c2c2b13ede
+      internalID: -595176015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_43
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 96
+        width: 96
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7e91612c84d6548bec57120083d703
+      internalID: -1134770910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 15
+        width: 142
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4961a78ea16dcd4da2d4d6e84d0fae9
+      internalID: -1764041380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_45
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 72
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822fdcc0c7d27f644be5be19b12e1027
+      internalID: 1777884171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_46
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 74
+        width: 31
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5828205b0eeb06e439ac46be5e41526b
+      internalID: 1013206467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_47
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 77
+        width: 25
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e24958ec4d8cb49978d6b1e838a163
+      internalID: 358433760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_48
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 77
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc6617454890df4897be635df5e96e8
+      internalID: 1815783824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_49
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 76
+        width: 83
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de4637003939df4d95aff131bf642f2
+      internalID: 1831250600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_50
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 24
+        width: 84
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0d75164cc83ee4e8cc101057987226
+      internalID: 1935860494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_51
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 30
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f334a5264aa0c48459e21811e5991a3f
+      internalID: -800878984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_52
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 15
+        width: 14
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00db611d393d3f4887db8beca557ae1
+      internalID: 1648843639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_53
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 39
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46895ff1561a8934da9a1d54e0732851
+      internalID: -1173104546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_54
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 15
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bd0f616b9c5874ca178cf5a528efc0
+      internalID: -1395732612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumiscabinassets_55
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 15
+        width: 30
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08f7dd94275bfb4385cb10b6971fd30
+      internalID: 937679530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lumiscabinassets_4: 218072637
+      Lumiscabinassets_18: -1297342005
+      Lumiscabinassets_45: 1777884171
+      Lumiscabinassets_28: 798087389
+      Lumiscabinassets_41: -845303240
+      Lumiscabinassets_50: 1935860494
+      Lumiscabinassets_22: -1226053373
+      Lumiscabinassets_15: 1132175166
+      Lumiscabinassets_8: -2059758145
+      Lumiscabinassets_26: 816565945
+      Lumiscabinassets_33: 441055975
+      Lumiscabinassets_11: -2103960007
+      Lumiscabinassets_24: -367104161
+      Lumiscabinassets_2: -94895222
+      Lumiscabinassets_36: -1594162196
+      Lumiscabinassets_9: -748195719
+      Lumiscabinassets_23: 728189971
+      Lumiscabinassets_10: 305980616
+      Lumiscabinassets_14: 1438923659
+      Lumiscabinassets_27: -605401758
+      Lumiscabinassets_0: -1344598168
+      Lumiscabinassets_3: 1477463803
+      Lumiscabinassets_40: 1822895713
+      Lumiscabinassets_35: 815644685
+      Lumiscabinassets_46: 1013206467
+      Lumiscabinassets_19: -936427919
+      Lumiscabinassets_5: -1724936177
+      Lumiscabinassets_25: -309371304
+      Lumiscabinassets_1: -395385284
+      Lumiscabinassets_53: -1173104546
+      Lumiscabinassets_43: -1134770910
+      Lumiscabinassets_55: 937679530
+      Lumiscabinassets_29: 1141618635
+      Lumiscabinassets_52: 1648843639
+      Lumiscabinassets_54: -1395732612
+      Lumiscabinassets_44: -1764041380
+      Lumiscabinassets_47: 358433760
+      Lumiscabinassets_48: 1815783824
+      Lumiscabinassets_16: 1081441676
+      Lumiscabinassets_39: -1038016607
+      Lumiscabinassets_30: -993003659
+      Lumiscabinassets_7: -1409118870
+      Lumiscabinassets_17: -1730410916
+      Lumiscabinassets_32: -1660852773
+      Lumiscabinassets_37: -2064586778
+      Lumiscabinassets_31: 294050521
+      Lumiscabinassets_34: -1270477306
+      Lumiscabinassets_6: -909310049
+      Lumiscabinassets_21: 1142474102
+      Lumiscabinassets_13: 706555958
+      Lumiscabinassets_20: -1110042100
+      Lumiscabinassets_38: -168722835
+      Lumiscabinassets_42: -595176015
+      Lumiscabinassets_12: -1070117624
+      Lumiscabinassets_49: 1831250600
+      Lumiscabinassets_51: -800878984
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

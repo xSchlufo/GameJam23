@@ -17,6 +17,8 @@ TagManager:
   - ItemSlot
   - Interactable
   - InteractionUI
+  - Left
+  - Right
   layers:
   - Default
   - TransparentFX

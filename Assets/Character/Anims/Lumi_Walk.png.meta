@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4b47e409cc4e2cf45b25825dc8d4c805
+guid: 5987ca5991baad041be2b24ec2a29554
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fox_Walk_0
+      name: Lumi_Walk_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3cdffcf8b8941a45aa0e3d744557e85
-      internalID: -1565173249
+      spriteID: e13f899f9ec539f409d07c81c5d4d81d
+      internalID: -1874400053
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Walk_1
+      name: Lumi_Walk_1
       rect:
         serializedVersion: 2
         x: 35
@@ -140,14 +140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c94002d4f4a841e489ffe26d078f268b
-      internalID: -921744605
+      spriteID: 62e08ac23133ede4a94b053b975df680
+      internalID: 561223710
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Walk_2
+      name: Lumi_Walk_2
       rect:
         serializedVersion: 2
         x: 70
@@ -161,14 +161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd7dcf87a890ab244a332311099a6b52
-      internalID: -1165503534
+      spriteID: 99bf2de921a85d2469f3e0876d6291ad
+      internalID: -1032931825
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Walk_3
+      name: Lumi_Walk_3
       rect:
         serializedVersion: 2
         x: 105
@@ -182,14 +182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2df7d49e59063b9459d63b4ec656ab36
-      internalID: -335004798
+      spriteID: 656b42007efa16b4f88b8a56f0685e1d
+      internalID: -277227411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Walk_4
+      name: Lumi_Walk_4
       rect:
         serializedVersion: 2
         x: 140
@@ -203,14 +203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2266c7b7f20932b4ead06bf0dc25afd7
-      internalID: -414750978
+      spriteID: 39c71454909e47f49a087be2434812b1
+      internalID: -740253257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Walk_5
+      name: Lumi_Walk_5
       rect:
         serializedVersion: 2
         x: 175
@@ -224,14 +224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95794744e3b593b43879608a3107c8ba
-      internalID: -1978383137
+      spriteID: f101add99f06a944e8729dcfdf63dd68
+      internalID: -583629183
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Walk_6
+      name: Lumi_Walk_6
       rect:
         serializedVersion: 2
         x: 210
@@ -245,14 +245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06880d0cbb2262d46838bf45d6b4e549
-      internalID: 1205155368
+      spriteID: ae54083f828e63e4f9a22e192dc3216d
+      internalID: 1133651051
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Walk_7
+      name: Lumi_Walk_7
       rect:
         serializedVersion: 2
         x: 245
@@ -266,8 +266,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a080b315d4cf4c9459c87be44b647c43
-      internalID: -1739795926
+      spriteID: 418cd470c34307d49ba19ac6c1e5a1d1
+      internalID: -2047721615
       vertices: []
       indices: 
       edges: []
@@ -283,14 +283,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Fox_Walk_2: -1165503534
-      Fox_Walk_7: -1739795926
-      Fox_Walk_0: -1565173249
-      Fox_Walk_6: 1205155368
-      Fox_Walk_5: -1978383137
-      Fox_Walk_4: -414750978
-      Fox_Walk_1: -921744605
-      Fox_Walk_3: -335004798
+      Lumi_Walk_1: 561223710
+      Lumi_Walk_3: -277227411
+      Lumi_Walk_4: -740253257
+      Lumi_Walk_5: -583629183
+      Lumi_Walk_6: 1133651051
+      Lumi_Walk_0: -1874400053
+      Lumi_Walk_7: -2047721615
+      Lumi_Walk_2: -1032931825
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

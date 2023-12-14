@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5fbb353b0fd48ea4fb6af7eb726ae64b
+guid: 9c5238c583cc2b847a1205d7589c294a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -103,112 +103,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Fox_Interact_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 45
-        height: 43
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: be1bee6638362474ab6a185aa7437daf
-      internalID: 428086772
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fox_Interact_1
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 0
-        width: 45
-        height: 43
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f488dfb157bf7c40aee8355a970662d
-      internalID: -431029143
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fox_Interact_2
-      rect:
-        serializedVersion: 2
-        x: 90
-        y: 0
-        width: 45
-        height: 43
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: caff98f014135464aa3598dfc0bd3804
-      internalID: 634591451
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fox_Interact_3
-      rect:
-        serializedVersion: 2
-        x: 135
-        y: 0
-        width: 45
-        height: 43
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4c2f302b207c38c4291732711dea4925
-      internalID: 1868511533
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fox_Interact_4
-      rect:
-        serializedVersion: 2
-        x: 180
-        y: 0
-        width: 45
-        height: 43
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4d1d8a16fd8dc2f4d9be9be7e94af24d
-      internalID: -1424302140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -219,12 +114,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Fox_Interact_4: -1424302140
-      Fox_Interact_0: 428086772
-      Fox_Interact_2: 634591451
-      Fox_Interact_3: 1868511533
-      Fox_Interact_1: -431029143
+    nameFileIdTable: {}
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

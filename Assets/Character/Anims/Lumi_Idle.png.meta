@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4b62d2b85dc5e05458948d9b0b77cf9b
+guid: 1e59b687e8034ac48b125ecd67a7c88b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,12 +105,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fox_Idle_0
+      name: Lumi_Idle_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 34
+        width: 38
         height: 46
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -119,19 +119,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af28b023c6d795245a3fb55bb894b631
-      internalID: -1786681716
+      spriteID: 8ef841ba02518284fbbd181d73bc9ab1
+      internalID: -1788162372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Idle_1
+      name: Lumi_Idle_1
       rect:
         serializedVersion: 2
-        x: 34
+        x: 38
         y: 0
-        width: 34
+        width: 38
         height: 46
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -140,19 +140,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29eed3f2274665745a75ea6f2ee6662e
-      internalID: -1715736677
+      spriteID: 5487e9d816d05954f8d7d6b9234ffbf7
+      internalID: -43810031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Idle_2
+      name: Lumi_Idle_2
       rect:
         serializedVersion: 2
-        x: 68
+        x: 76
         y: 0
-        width: 34
+        width: 38
         height: 46
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -161,19 +161,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 686c330e28cd20e4fb29a393ad70b8b4
-      internalID: 396684893
+      spriteID: 9f7c961997ea92f4ba31a9537cb99225
+      internalID: 725373724
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Idle_3
+      name: Lumi_Idle_3
       rect:
         serializedVersion: 2
-        x: 102
+        x: 114
         y: 0
-        width: 34
+        width: 38
         height: 46
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -182,19 +182,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a2b26350f5cf9849aef8657da442bc8
-      internalID: -445457968
+      spriteID: 2f1827f4fce7d53469a723738b5a99b1
+      internalID: 406149843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Idle_4
+      name: Lumi_Idle_4
       rect:
         serializedVersion: 2
-        x: 136
+        x: 152
         y: 0
-        width: 34
+        width: 38
         height: 46
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -203,19 +203,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59e3fae75baf7a4478822ebc7c10678c
-      internalID: -769427984
+      spriteID: 8e7ca31889211d84c9b4d32c6fcf24ef
+      internalID: -1695528726
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Idle_5
+      name: Lumi_Idle_5
       rect:
         serializedVersion: 2
-        x: 170
+        x: 190
         y: 0
-        width: 34
+        width: 38
         height: 46
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -224,19 +224,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 514008c29699fc54cbec849ed6242569
-      internalID: -463638343
+      spriteID: d65a5766d18e56447b718c3011565f39
+      internalID: 498052742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Idle_6
+      name: Lumi_Idle_6
       rect:
         serializedVersion: 2
-        x: 204
+        x: 228
         y: 0
-        width: 34
+        width: 38
         height: 46
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -245,19 +245,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd01babdf0bee3740b69b8295ef85c4b
-      internalID: 1877868270
+      spriteID: f0db21973b7d396449b3c101144fc297
+      internalID: 1061516821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Idle_7
+      name: Lumi_Idle_7
       rect:
         serializedVersion: 2
-        x: 238
+        x: 266
         y: 0
-        width: 34
+        width: 38
         height: 46
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -266,19 +266,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0625a2cf5b8d99418f3ccee2a0cf7e5
-      internalID: -1123344794
+      spriteID: fefbc1452f6b46e488889386fc2c0d4b
+      internalID: -2095600034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Idle_8
+      name: Lumi_Idle_8
       rect:
         serializedVersion: 2
-        x: 272
+        x: 304
         y: 0
-        width: 34
+        width: 38
         height: 46
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -287,19 +287,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8055bb407f96f3847a711bdda24159cd
-      internalID: -553554546
+      spriteID: 9f0dd35739eaedc418f6e1b098d04c18
+      internalID: 2085474490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Idle_9
+      name: Lumi_Idle_9
       rect:
         serializedVersion: 2
-        x: 306
+        x: 342
         y: 0
-        width: 34
+        width: 38
         height: 46
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -308,19 +308,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 587052a3e8cf2244380ebc0647173754
-      internalID: -1692704268
+      spriteID: 021c3b63c0b165d43b1785daa86a5038
+      internalID: 166891465
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Idle_10
+      name: Lumi_Idle_10
       rect:
         serializedVersion: 2
-        x: 340
+        x: 380
         y: 0
-        width: 34
+        width: 38
         height: 46
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -329,19 +329,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 516cb90738e3627498fc80f3ef544855
-      internalID: 1465395321
+      spriteID: 13470f6fd15bcec49aa40e7631e30a80
+      internalID: -380056410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Idle_11
+      name: Lumi_Idle_11
       rect:
         serializedVersion: 2
-        x: 374
+        x: 418
         y: 0
-        width: 34
+        width: 38
         height: 46
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -350,19 +350,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ec2e276edc87f9429354498d854788a
-      internalID: -274861181
+      spriteID: 47dfe473555a8274bb2f7b9b5984821c
+      internalID: -446378853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Idle_12
+      name: Lumi_Idle_12
       rect:
         serializedVersion: 2
-        x: 408
+        x: 456
         y: 0
-        width: 34
+        width: 38
         height: 46
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -371,19 +371,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9bec9ec6353f2f34099638923cf3721f
-      internalID: 691774997
+      spriteID: a0ad66cbbfb44e5419a51ab97f95453a
+      internalID: 1693594195
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_Idle_13
+      name: Lumi_Idle_13
       rect:
         serializedVersion: 2
-        x: 442
+        x: 494
         y: 0
-        width: 34
+        width: 38
         height: 46
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -392,8 +392,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: afa9bbfc0b46eef4aab7705415a12361
-      internalID: 1362613665
+      spriteID: 74d027ebdfad3044aa3f52420af0780a
+      internalID: 1625498516
       vertices: []
       indices: 
       edges: []
@@ -409,20 +409,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Fox_Idle_6: 1877868270
-      Fox_Idle_5: -463638343
-      Fox_Idle_11: -274861181
-      Fox_Idle_13: 1362613665
-      Fox_Idle_0: -1786681716
-      Fox_Idle_12: 691774997
-      Fox_Idle_9: -1692704268
-      Fox_Idle_1: -1715736677
-      Fox_Idle_7: -1123344794
-      Fox_Idle_2: 396684893
-      Fox_Idle_8: -553554546
-      Fox_Idle_3: -445457968
-      Fox_Idle_4: -769427984
-      Fox_Idle_10: 1465395321
+      Lumi_Idle_13: 1625498516
+      Lumi_Idle_9: 166891465
+      Lumi_Idle_12: 1693594195
+      Lumi_Idle_7: -2095600034
+      Lumi_Idle_2: 725373724
+      Lumi_Idle_3: 406149843
+      Lumi_Idle_8: 2085474490
+      Lumi_Idle_6: 1061516821
+      Lumi_Idle_1: -43810031
+      Lumi_Idle_0: -1788162372
+      Lumi_Idle_11: -446378853
+      Lumi_Idle_10: -380056410
+      Lumi_Idle_4: -1695528726
+      Lumi_Idle_5: 498052742
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

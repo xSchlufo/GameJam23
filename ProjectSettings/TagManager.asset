@@ -19,6 +19,7 @@ TagManager:
   - InteractionUI
   - Left
   - Right
+  - SoundManager
   layers:
   - Default
   - TransparentFX
